@@ -14,19 +14,13 @@
 
 * Contrução
 
-- 1
 
-- 2
 
-- 3
 
 * Programação
 
-- 1
 
--2
 
--3
 
 * Design
 
