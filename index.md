@@ -4,15 +4,34 @@
 ![foto grupo](https://user-images.githubusercontent.com/75841641/134515832-3694bda3-732f-4e7c-9c5b-adc6304998ae.jpg)
 
 
-- Alunos
+* F.T.C 2021/2022
 
--Bruno Ruan Fragoso Albuquerque: (Construtor & Programador)
+![image](https://user-images.githubusercontent.com/75841641/134529827-3ec5b7ad-a8e9-46e9-b7a1-17d384cde264.png)
 
 
-![bruno](https://user-images.githubusercontent.com/75841641/134527147-b9836402-cd41-4b94-8319-8f96cdba8396.jpg)
+* Projetos Sociais
 
-.Biografia
 
-.Gostos
+* Contrução
 
-.Redes Sociais
+- 1
+
+- 2
+
+- 3
+
+* Programação
+
+- 1
+
+-2
+
+-3
+
+* Design
+
+
+
+
+* Pesquisa
+
