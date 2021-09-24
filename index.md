@@ -7,8 +7,7 @@
 # INTEGRANTES / BIOGRAFIA
 
 - Cláudio Bezerra (Técnico de robótica)
-
-![image](https://user-images.githubusercontent.com/75841641/134687626-92c7802f-4103-4aae-bdb9-b9c2650866b0.png)
+![image](https://user-images.githubusercontent.com/75841641/134705893-e247d699-ba2c-4c55-9a6c-bc1e092c11d6.png)
 
 
 
