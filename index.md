@@ -19,7 +19,7 @@ Meu nome é Arthur Ramalho tenho 16 anos de idade, moro na cidade de Campina Gra
 - Anna Carolyna (Pesquisadora)
 
 Meu nome é Anna Carolyna tenho 16 anos de idade, moro em Campina Grande na Paraíba, no bairro Liberdade, na robótica gosto muito de pesquisar, de produzir o caderno de engenharia e também programar. Na FTC faço parte do Caderno de Engenharia e claro, Plano de Pesquisa. Uma  frase que define a robótica pra mim é que “Ideias podem trazer mais ideias”, para mim a robótica é uma forma de ajudar as pessoas por meio da sua essência e ideias. A robótica me ajudou a desenvolver mais minha criatividade e resolver problemas sem me pressionar, gosto muito quando uma ideia é escolhida e podemos, juntos, colocá-la em prática. Quando tenho um tempo livre gosto de fazer de tudo um pouco, tipo ler, assistir algo, ficar em ligação com os amigos, ouvir música e etc…, minha comida favorita é torta de limão, meu estilo de música é reggaeton, pop e pagode. Uma frase que me define é que “Somos quem somos por várias razões. Talvez nunca conheçamos a maior parte delas, mas mesmo que não tenhamos o poder de escolher quem vamos ser, ainda podemos escolher onde iremos a partir daqui. Ainda podemos fazer coisas. E podemos tentar ficar bem com elas.” 
-- As vantagens de ser invisível
+As vantagens de ser invisível
 
 - Brunelize Gomes (Pesquisadora)
 
