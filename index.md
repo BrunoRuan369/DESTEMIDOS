@@ -37,9 +37,11 @@ Meu nome é Lorenna Vitória, tenho 16 anos, moro em Campina Grande na Paraíba 
 
 Meu nome é Pamela Eduarda, tenho 17 anos, moro em Campina Grande na Paraíba no bairro do Jardim Paulistano. Na FTC gosto de ajudar todo mundo, porém sou mais ligada à pesquisa. Para mim a robótica é paz e amor, pois no que puder estamos juntos. A robótica mudou em mim a minha organização e  me deixou menos tímida. O momento que mais gosto é quando colocamos música na sala onde todos estão ali juntos e animados. No meu tempo livre gosto muito de descansar, minha comida preferida é lasanha, uma frase que me define é: "Só sei que nada sei".
 
-- Pamela Eduarda (pesquisadora)
+- Sara Vitória (Pesquisadora)
 
-Meu nome é Pamela Eduarda, tenho 17 anos, moro em Campina Grande na Paraíba no bairro do Jardim Paulistano. Na FTC gosto de ajudar todo mundo, porém sou mais ligada à pesquisa. Para mim a robótica é paz e amor, pois no que puder estamos juntos. A robótica mudou em mim a minha organização e  me deixou menos tímida. O momento que mais gosto é quando colocamos música na sala onde todos estão ali juntos e animados. No meu tempo livre gosto muito de descansar, minha comida preferida é lasanha, uma frase que me define é: "Só sei que nada sei".
+Meu nome é Sara Vitória, tenho 17 anos, moro em Campina Grande- PB, no bairro Jardim Paulistano. A área da robótica pela qual eu sou mais ativa é no projeto e a que eu estou procurando mais desenvolver é na área de programação e marketing, uma frase que eu acho que melhor me define 
+
+
 
 
 
