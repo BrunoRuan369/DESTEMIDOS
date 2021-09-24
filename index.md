@@ -14,6 +14,11 @@
 
 - Álvaro Martin (Pesquisador)
 
+![image](https://user-images.githubusercontent.com/75841641/134698807-771492af-25a9-4cce-b690-56d72c6dfaae.png)
+
+
+
+
 Meu nome é Álvaro Martins, tenho 16 anos, moro em Campina Grande na Paraíba no bairro do Bodocongó. Na robótica gosto muito de como nossa equipe é unida, isso dá um impulso gigante na minha moral e me ajuda a trabalhar melhor e ser mais eficiente. Na FTC faço parte do  plano de pesquisa e plano de negócios. Para mim a robótica é um lugar onde tenho amizades e posso trabalhar junto com eles para alcançar um objetivo. Uma frase que define a robótica é não importa se ganhamos ou não, e sim a jornada pela qual passamos. A robótica me deixou mais criativo e sociável. O momento que mais gostei foi quando Cláudio (nosso técnico) me deu um bolo pra comemorar meu aniversário. No meu tempo livre gosto muito de jogar, dormir, ler mangás e escutar música; A minha comida preferida é sushi e pizza, meu gosto musical preferido é rock, metal e música clássica. 
 
 - Arthur Ramalho (Programador & Construtor)
