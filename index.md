@@ -1,13 +1,13 @@
 
 ### DESTEMIDOS RÓBOTICA
 
-# DESTEMIDOS F.T.C 2021/2022
-[image](https://user-images.githubusercontent.com/75841641/134529827-3ec5b7ad-a8e9-46e9-b7a1-17d384cde264.png)
+#### DESTEMIDOS F.T.C 2021/2022
+![image](https://user-images.githubusercontent.com/75841641/134529827-3ec5b7ad-a8e9-46e9-b7a1-17d384cde264.png)
 
-# INTEGRANTES / BIOGRAFIA
+#### INTEGRANTES 
 
 -CLÁUDIO BEZERRA (TÉCNICO DE ROBÓTICA)
-[image](https://user-images.githubusercontent.com/75841641/134705893-e247d699-ba2c-4c55-9a6c-bc1e092c11d6.png)
+![image](https://user-images.githubusercontent.com/75841641/134705893-e247d699-ba2c-4c55-9a6c-bc1e092c11d6.png)
 
 #-
 
