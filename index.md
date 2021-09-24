@@ -119,9 +119,47 @@ No diagrama de casos de uso abaixo está demonstrado as principais funcionalidad
 ![image](https://user-images.githubusercontent.com/75841641/134693650-060924a1-512f-4ef1-b773-e7cbdfe6f78f.png)
 
 
+Após todo o processo de registro, o microempreendedor escolhe o motorista que está viajando para o mesmo local de entrega, pagando assim, um frete mais barato e um curto prazo de tempo. No início do pedido de carona, o aplicativo fornece um código de 6 caracteres, em que o pagamento só será liberado com a inserção deste código por meio do receptor. Dessa forma garantimos a segurança na entrega.
+
+O aplicativo se diferencia em alguns quesitos de outras soluções existentes no mercado, são elas:
+Não é necessário ter um centro de recepção e envio dos produtos, pois o envio acontece diretamente com o motorista.
+O motorista não vai trabalhar e dedicar-se exclusivamente ao aplicativo, pois isso servirá como renda extra, visto que o trajeto da viagem ele iria fazer de qualquer forma.
+O horário de entrega será combinado por ambas as partes
+O empreendedor poderá escolher com qual motorista quer mandar o seu produto.
+ 
+Tecnologias
+
+Optamos por escolher um framework que provesse um conjunto de ferramentas completo para desenvolvimento de aplicativos. Analisamos o desempenho para executar regras de negócio, renderizar telas e transições e a facilidade de aprender essa nova tecnologia. Pensando em todos esses fatores, escolhemos Flutter.
+
+Flutter é um framework desenvolvido pela Google para desenvolvimento de apps, sites e sistemas web. Possui como linguagem de programação o Dart, também foi desenvolvida pela Google. O Flutter provê um conjunto de soluções para desenvolvimento que aceleram a velocidade de desenvolvimento. 
+Resultados ESPERADOS e Discussão
+O PROJETO ENCONTRA-SE EM DESENVOLVIMENTO, ainda não temos resultados empíricos para demonstração.
+Conclusões
+
+O aplicativo demonstra grande potencial e escalabilidade. Visto que os empreendedores demonstraram interesse na solução que está em desenvolvimento. Por outro lado, o aplicativo possui uma certa complexidade na implementação, o que está resultando em um tempo maior para desenvolvimento por não termos experiência com o desenvolvimento de aplicativos mobile. É interessante sempre levar em conta o tempo de desenvolvimento e testes pois isso garantirá o melhor desempenho do app.
+
+ReferênciaS Bibliográficas
+
+Exame. Invest, Comprei um produto que não foi entregue no
+     prazo. O que fazer?. Publicado em 11 de Fevereiro de 2018. Disponível em: Exame. Invest. Acesso em: 12 de agosto. 2021.
+Mercado livre. #FreteAbusivoNão. Publicado em 2021. Disponível em: Ideias.Mercadolivre. Acesso em: 16 de set. 2021.
+ReclameAqui. Aumento (sem explicação) das taxas de entrega. Publicado em 19 de Agosto de 2021. Disponível em: ReclameAqui. Acesso em: 16 de set. 2021
+
+6Minutos. Vem aí o open delivery tecnologia promete aumento da concorrência e redução de taxas. Publicado em 12 de set. 2021. Disponível em: 6Minutos. Acesso em: 16 de set. 2021
+
+Novarejo.  E-commerce: O setor cresceu 75% em meio à pandemia. Publicado em 19 de fev. 2021. Disponível em: Novarejo. Acesso em: 23 de set. 2021
+
+E-CommecerBRASIL. 46% dos brasileiros fizeram mais compras online na pandemia, indica Mastercard. Publicado em 26 de nov. 2020. Disponível em: E-commerceBR. Acesso em 23 de set. 2021
+
+6Minutos. Prazo longo e frete caro: Por que está mais difícil comprar online. Publicado em: 14 de jun. 2020. Disponível em: 6Minutos. Acesso em: 23 de set. 2021
+ 
+Mercado&Consumo. Pandemia impulsionou a criação de 135 mil lojas no e-commerce. Publicado em: 10 de jul. 2020. Disponível em: Mercadoeconsumo. Acesso em: 23 de set. 20221 
+
+Observação: O material multimídia deste trabalho encontra-se disponível em: www.mnr.org.br/mostravirtual.
+ 
 
 
-- Sociais
+
 
 
 
