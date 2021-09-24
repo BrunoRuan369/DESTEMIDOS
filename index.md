@@ -14,8 +14,9 @@
 
 - Álvaro Martin (Pesquisador)
 
-![image](https://user-images.githubusercontent.com/75841641/134698807-771492af-25a9-4cce-b690-56d72c6dfaae.png)
 
+
+![image](https://user-images.githubusercontent.com/75841641/134699607-d2c90073-ced3-4aa0-a8bf-e7d04992631a.png)
 
 
 
