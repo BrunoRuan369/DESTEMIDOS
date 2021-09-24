@@ -58,7 +58,7 @@ Uma frase que me define é : “A persistência é o caminho do êxito.”
 
 
 ## ᴘʀᴏɢʀᴀᴍᴀᴅᴏʀ ᴇ ᴄᴏɴsᴛʀᴜᴛᴏʀ
-[image](https://user-images.githubusercontent.com/75841641/134732752-4cd02589-d96b-47a9-addd-563910af8f67.png)
+![image](https://user-images.githubusercontent.com/75841641/134732752-4cd02589-d96b-47a9-addd-563910af8f67.png)
 
 Meu nome é João Eduardo, tenho 16 anos, moro em Campina Grande na Paraíba, no bairro Monte Santo, pertinho da escola, na robótica gosto muito da construção e programação, na FTC faço parte da Construção do Robô e Programação, uma frase que define a robótica é que “A união faz a força”. Para mim a robótica é um grupo que vai me tirar da zona de conforto e me fazer ter novos aprendizados e experiências, a robótica me fez querer buscar conhecer novas coisas sobre a tecnologia. No meu tempo livre gosto muito de desenhar, assistir séries e ler, minha comida preferida é panqueca, meu gosto musical preferido é Pop e Rock. Uma frase que me define é que “a perfeição não existe, porque perfeição quer dizer que existe um limite. Sempre dá pra melhorar”.
 
