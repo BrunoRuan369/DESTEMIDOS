@@ -51,6 +51,7 @@ Meu nome é Pamela Eduarda, tenho 17 anos, moro em Campina Grande na Paraíba no
 -SARA VITORIA (PESQUISADORA)
 
 Meu nome é Sara Vitória, tenho 17 anos, moro em Campina Grande- PB, no bairro Jardim Paulistano. A área da robótica pela qual eu sou mais ativa é no projeto e a que eu estou procurando mais desenvolver é na área de programação e marketing, uma frase que eu acho que melhor me define 
+
 ![image](https://user-images.githubusercontent.com/75841641/134709310-b40d4b2d-11f4-49b8-830c-760345ff91c7.png) 
 
 
