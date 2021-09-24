@@ -1,10 +1,6 @@
 # DESTEMIDOS
-Seja Muito Bem Vindo Ao Site Dos DESTEMIDOS
 
-
-* We History
-* Us
-* ALVARO EPAMINONDAS
+SITE - DESTEMIDOS - F.T.C 2021/2022
 
 
 
