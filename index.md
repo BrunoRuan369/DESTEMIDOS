@@ -1,5 +1,5 @@
 
-## DESTEMIDOS RÓBOTICA
+### DESTEMIDOS RÓBOTICA
 
 # DESTEMIDOS F.T.C 2021/2022
 ![image](https://user-images.githubusercontent.com/75841641/134529827-3ec5b7ad-a8e9-46e9-b7a1-17d384cde264.png)
@@ -41,10 +41,84 @@ Meu nome é Pamela Eduarda, tenho 17 anos, moro em Campina Grande na Paraíba no
 
 Meu nome é Pamela Eduarda, tenho 17 anos, moro em Campina Grande na Paraíba no bairro do Jardim Paulistano. Na FTC gosto de ajudar todo mundo, porém sou mais ligada à pesquisa. Para mim a robótica é paz e amor, pois no que puder estamos juntos. A robótica mudou em mim a minha organização e  me deixou menos tímida. O momento que mais gosto é quando colocamos música na sala onde todos estão ali juntos e animados. No meu tempo livre gosto muito de descansar, minha comida preferida é lasanha, uma frase que me define é: "Só sei que nada sei".
 
-# Projetos 
+# PROJETOS
 
 
 - NextWay App
+
+
+NEXTWAY - UM APP DE CARONA PARA ENCOMENDAS
+Álvaro Martins - Ensino Médio(2ª Série), Anna Carolyna - Ensino Médio(2ª Série), Arthur Ramalho - Ensino Médio(2ª Série),  Bruno Ruan - Ensino Médio(2ª Série),  Brunelize Gomes - Ensino Médio(3ª Série), João Eduardo - Ensino Médio(2ª Série),  Lorenna Vitória, - Ensino Médio(2ª Série),  Marcos Lima - Ensino Médio(3ª Série), Pamela - Ensino Médio(2ª Série), Sara Vitória - Ensino Médio(3ª Série)
+Cláudio Alberto de Sousa Bezerra 1, Alexsandra Sousa Santos²
+claudioalberto@fiepb.org.br, alexsandrasousa@fiepb.org.br
+
+1 ESCOLA SESI PRATA 
+Campina Grande – PB 
+
+Categoria: ARTIGO BÁSICO / MULTIMÍDIA
+ 
+
+
+Resumo: 
+
+Situação problema: Diante do cenário de pandemia houve crescimento exponencial na demanda por serviços de entrega, ocasionando a sobrecarga nas empresas de logística e consequentemente a elevação dos preços dos fretes. Objetivo: Desenvolver um aplicativo para dispositivos móveis com o intuito de melhorar o custo-benefício para envio de produtos feitos por microempreendedores e gerar renda extra para pessoas que vão viajar para outras cidades e podem dar uma carona para o produto. Método: Estudo quantitativo. O aplicativo está sendo desenvolvido de forma híbrida para as plataformas Android e IOS utilizando o framework Flutter. Foi pensado analisando outras soluções disponíveis no mercado e através de entrevistas com micro empreendedores (QUE SOLUÇÕES? CITAR E ESSAS ENTREVISTAS? QUAL O OBJETIVO E QUEM RESPONDEU?.  Resultado esperados: O aplicativo além de trazer uma nova visão sobre entregas, trás de uma forma inovadora uma nova possibilidade de pessoas, até mesmo desempregadas, obterem uma nova fonte de renda extra. CONFUSO E REDUNDANTE, AFINAL QUAIS OS RESULTADOS QUE VOCÊS ALMEJAM?
+Palavras Chaves: Robótica, Desenvolvimento Mobile, Transporte logístico.
+
+Abstract: 
+Problem situation: In the face of the pandemic scenario, there was an exponential growth in the demand for delivery services, causing an overload on the logistics companies and, consequently, an increase in freight prices. Objective: Develop an application for mobile devices in order to improve the cost-effectiveness of sending products made by micro-entrepreneurs and generate extra income for people who will travel to other cities and can transport a product. Method: Quantitative study. The application is being developed in a hybrid way for Android and IOS platforms using the Flutter framework. It was designed by analyzing other solutions available on the market and through interviews with micro entrepreneurs. Result: Conclusion: The application, in addition to bringing a new view on deliveries, brings in an innovative way a new possibility for people, even unemployed, to obtain a new source of extra income.
+Keywords: Robotics, Mobile Development, Logistic transport.
+Introdução
+
+SERIA INTERESSANTE USAR ALGUM ARTIGO FALANDO DE LOGÍSTICA E TRANSPORTE (MAS COMO NÃO TEMOS TEMPO, DEIXA)
+
+De acordo com o site https://www.ecommercebrasil.com.br, COLOCAR O AUTOR E O ANO, SE NÃO TIVER, COLOCAR O NOME DO SITE E O ANO, POR EXEMPLO, GLOBO, 2021) a pandemia ocasionada pelo coronavírus alterou o comportamento de compra dos brasileiros, proporcionando  aumento de 46% do volume de compras na internet. Segundo  www.consumidormoderno.com.br COLOCAR O AUTOR E O ANO, SE NÃO TIVER, COLOCAR O NOME DO SITE E O ANO, POR EXEMPLO, GLOBO, 2021)  o setor de e-commerce cresceu cerca de 75% durante a pandemia e com isso surgiram os problemas de logística na entrega. Fretes caros e atrasos foram os problemas mais comuns. Dito isto, conversamos com microempreendedores que tinham dificuldades de enviar produtos devido aos problemas citados e procuramos entender quais eram as principais dificuldades.
+
+O primeiro passo dado foi entender o mecanismo utilizado por grandes empresas para logística, transporte e armazenamento de produtos. Vimos que algumas soluções existem, mas em sua maioria são voltadas para gestão de rotas em grandes empresas. Nosso objetivo foi melhorar o custo-benefício para os microempreendedores e para isso estamos desenvolvendo o aplicativo que permite o encontro entre empreendedor, destinatário e motorista.
+
+Há no mercado muitas plataformas de envios de produtos para e-commerces, tais como Melhor Envio e Kangu. Em sua maioria essas empresas possuem centros de distribuição e recepção nas principais cidades. Os centros são responsáveis por receber os produtos e encaminhar por meio de transportes privados os produtos aos destinos finais. Em nosso caso, não teremos centros de distribuição, apenas conectaremos os microempreendedores que precisam enviar para uma cidade A com pessoas que estarão viajando para A.
+
+Este artigo encontra-se organizado da seguinte forma: a seção 2 apresenta a metodologia. A seção 3 descreve o trabalho proposto com subtópicos sobre situação problema, o aplicativo, contexto e hipótese. Os resultados esperados são apresentados na seção 4, e as conclusões são apresentadas na seção 5
+Metodologia
+A PESQUISA PODE SER CLASSIFICADA COMO UM ESTUDO QUANTITATIVO-QUALITATIVO EM QUE UTILIZAMOS OS dados de pesquisas baseados em institutos de estatística e INFORMAÇÕES PRODUTO DE DIÁLOGOS  com empreendedores da Paraíba que trabalham com e-commerce e envio de produtos para a região.
+
+Seguimos o seguinte itinerário metodológico:
+Brainstorm: Levantamos diversos problemas SOBRE O QUE?
+Levantamento de dados: busca de informações (COMO VOCÊS BUSCARAM ESSAS INFORMAÇÕES, ENTREVISTAS?) que comprovem possíveis problemas encontrados no Brainstorm
+PESQUISA BIBLIOGRÁFICA E DOCUMENTAL ACERCA DO OBJETO DE ESTUDO. 
+Soluções existentes: analisamos as soluções existentes no mercado em busca de falhas
+Possíveis soluções: buscamos formas de resolver os problemas encontrados na etapa anterior
+Implementação da solução
+Participam ativamente do projeto 10 alunos e 2 professores que se dividem para melhor evolução do projeto. Temos áreas que subdividimos que nos permite ser mais eficientes, são elas: Programação, Design, Marketing e Administrativo. 
+Através desse projeto está sendo permitido desenvolvermos habilidades de comunicação, apresentação, programação, design, documentação e levantamento de requisitos de projetos.
+Trabalho Proposto
+
+Hipótese
+
+    Desenvolver um aplicativo em que os e-commerces possam enviar seus produtos obtendo melhor custo-benefício. Por meio do aplicativo, o empreendedor irá solicitar uma carona, ou seja, alguém que já iria fazer o trajeto para o mesmo destino da entrega, e que vai levar a mercadoria até a outra pessoa(cliente/receptor da entrega), tornando-se uma forma de renda extra para o entregador e melhorando o custo benefício para o cliente e empreendedor.
+
+Pergunta norteadora:
+
+Como podemos auxiliar empreendedores a terem melhor custo-benefício na logística de entrega de produtos?
+
+Contexto:
+
+Durante a quarentena ocasionada pelo COVID-19, tivemos uma mudança brusca na forma de consumo da população assim como no comércio de produtos online. Segundo Maurício Salvador, presidente da ABCOM (Associação Brasileira de Comércio Eletrônico), 135 mil novos e-commerces foram criados de diferentes segmentos. 
+Com o crescimento do e-commerce, tivemos um crescimento exponencial na demanda por serviços de entrega, ocasionando a sobrecarga nas empresas de logística e consequentemente a elevação dos preços dos fretes. “O frete é vilão do custo logístico das lojas online. O fato de um site oferecer frete grátis não significa que ele não está tendo esse custo”, diz Machado, GS&Consult. Dessa forma observamos que o frete se tornou um problema para microempreendedores que vendem produtos de baixo custo e muitas vezes sequer possuem site ou contrato com empresas de logística.
+
+O aplicativo (COLOCA A PROJEÇÃO DO DESIGN DO APLICATIVO
+
+O aplicativo em desenvolvimento tem foco em três principais públicos-alvo: empreendedores, motoristas e clientes. No aplicativo os empreendedores poderão fazer envio de seu produto baseado nas dimensões, no peso, na distância do trajeto e no valor do pacote, mas para isso deverão se cadastrar  e estar com as principais informações preenchidas no app.
+
+Na parte do motorista, o mesmo irá cadastrar-se com as principais informações(nome, telefone, e-mail, endereço, CPF) e juntamente com isso fará o cadastro de todas as viagens pessoais que tem programadas. Descrevendo local de origem, local de destino, horário de saída e possíveis paradas no trajeto. Isso possibilitará que empreendedores e clientes vejam suas viagens e demonstrem interesse em enviar um produto.
+
+Por parte do cliente, o mesmo deverá efetuar um cadastro com as principais informações(nome, CPF, e-mail, telefone, endereço). Feito isso, poderá ver as viagens de todos os motoristas presentes nas proximidades do seu endereço e escolher uma delas para enviar seu produto. Será necessário preencher peso, dimensões e o tipo de produto. 
+
+No diagrama de casos de uso abaixo está demonstrado as principais funcionalidades do sistema:
+
+
+![image](https://user-images.githubusercontent.com/75841641/134693650-060924a1-512f-4ef1-b773-e7cbdfe6f78f.png)
+
+
 
 
 - Sociais
