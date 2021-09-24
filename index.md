@@ -1,9 +1,4 @@
 
-#### DESTEMIDOS RÓBOTICA
-
-
-
-
     DESTEMIDOS F.T.C 2021/2022
 
 
@@ -12,7 +7,7 @@
 
 
 
-# INTEGRANTES 
+### INTEGRANTES 
 
 
 
