@@ -5,10 +5,10 @@
 
 
 
-## ᴛᴇᴄɴɪᴄᴏ ᴅᴇ ʀᴏʙᴏᴛɪᴄᴀ
+## 〖ᴛᴇᴄɴɪᴄᴏ ᴅᴇ ʀᴏʙᴏᴛɪᴄᴀ〗↴
 ![image](https://user-images.githubusercontent.com/75841641/134705893-e247d699-ba2c-4c55-9a6c-bc1e092c11d6.png)
 
-
+Ex participante da equipe DESTEMIDOS de robótica, técnico de robótica na Escola SESI na cidade de Campina Grande, formando-se em engenharia de computação na IFPB, vencedor do premio técnico destaque na FLL 2021. O verdadeiro heroísmo consiste em persistir por mais um momento quando tudo parece perdido.
 
 
 ![image](https://user-images.githubusercontent.com/75841641/134704937-b5060f47-fe5b-4cda-bd4d-b414fc9d2109.png)
